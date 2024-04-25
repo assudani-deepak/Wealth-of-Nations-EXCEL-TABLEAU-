@@ -15,8 +15,10 @@ This project revolves around the analysis and visualisation of economic data fro
 
 This README provides an overview of the project, its objectives, and methodologies employed. For detailed instructions on data processing, visualisation creation, or any other aspect of the project, please refer to the project documentation or contact the project owner.
 
-![Tableau3](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-/assets/168087466/767d873e-896c-4041-96a8-0e6ac425cfd4)
-![Tableau2](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-/assets/168087466/2cf5146b-057c-4dd9-8569-e3489e73dc63)
-![Tableau1](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-/assets/168087466/f4f69d5f-4e9b-4e75-9908-30a4253bff48)
-![Excel graph](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-/assets/168087466/0ec42c8a-af64-4c2f-8e69-8690e20b4029)
+![Tableau1](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-/assets/168087466/df7d711d-aa3b-476c-82e8-43d362795d6b)
 
+![Tableau2](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-/assets/168087466/e9a331fd-471a-481a-9199-521b4b064372)
+
+![Excel1](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-/assets/168087466/36772d25-187e-4dd4-a8a0-8f6fd9879176)
+
+[Click here for Tableau Dashboard](https://public.tableau.com/app/profile/deepak.assudani/viz/TheWealthofNations_17094238619950/SmartphoneUsers)
