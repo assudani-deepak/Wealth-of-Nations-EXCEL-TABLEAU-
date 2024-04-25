@@ -1,7 +1,5 @@
 # Wealth-of-Nations-EXCEL-TABLEAU-
 
-# Project Summary 📈
-
 ## Overview 🌍
 
 This project revolves around the analysis and visualisation of economic data from the "Wealth of Nations" dataset. The dataset was processed using Excel for cleaning, filtering, and sorting, followed by visualisation in Tableau. The resulting dashboard comprises four visuals tailored to meet the needs of a colour-blind client who specifically requested consideration for their condition.
